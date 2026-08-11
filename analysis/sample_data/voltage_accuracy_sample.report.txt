@@ -1,0 +1,8 @@
+--- Accuracy benchmark: Voltage ---
+Samples:                 8
+Mean Absolute Error:      1.2500 V
+RMS Error:                1.4782 V
+Bias (mean signed error): +0.9500 V  (reads high)
+Std dev of error:         1.1325 V
+Max |error|:              2.4000 V (1.09%)
+Mean |error| %:           0.562%
